@@ -26,13 +26,6 @@ How is discount is made as per dicount band.
 Key factors influencing profit to increase or decrease.
 In order to answer these questions, I invested time in planning the PowerBI measures I would need to create and also planned a rough outline of the dashboard visuals I wanted.
 
-## Data Analysis Summary
-Here are the dashboards that I created. If you would like to actually play around with these dashboards see the end of this readme for instructions:
-
-<img width="688" alt="image" src="https://github.com/Roja-Reddy/Power-BI-Projects/assets/170682854/534620b3-909a-40be-947b-91ed8982b1a0">
-
-<img width="673" alt="image" src="https://github.com/Roja-Reddy/Power-BI-Projects/assets/170682854/72de8d39-8eb4-4fbe-9140-5530aa3ca126">
-
 ## Software Used
   - Windows 10 Machine
   - Microsoft PowerBI Desktop (v2.129.905.0)
